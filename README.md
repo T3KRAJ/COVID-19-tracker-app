@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a good project for you to learn about react.
 
 
 [Click Here](https://coronavirus-cases-tracker.netlify.app/) to view the live app.
