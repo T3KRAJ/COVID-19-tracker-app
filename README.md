@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a good project for you to learn about react.
 
 
-[Click Here](https://coronavirus-cases-tracker.netlify.app/) to view the live app.
+[Click Here](https://track-covidcases.netlify.app/) to view the live app.
 
 ## Available Scripts
 
